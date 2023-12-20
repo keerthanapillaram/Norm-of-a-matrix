@@ -34,7 +34,7 @@ norm="{:.2f}".format(sol)
 print(norm)
 
 
-# Infinity Norm of a Matrix
+# 3-Infinity Norm of a Matrix
 
 
 import numpy as np
