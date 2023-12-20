@@ -12,7 +12,9 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ```Python
 # Register No: P.KEERTHANA
 # Developed By: 23011895
+
 # 1-Norm of a Matrix
+
 '''
 import numpy as np
 arr=([[-1,3],[3,-4],[1,7]])
